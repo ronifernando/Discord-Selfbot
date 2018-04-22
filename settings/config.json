@@ -1,7 +1,7 @@
 
 {
   "token": "",
-  "cmd_prefix": ">",
-  "customcmd_prefix": ".",
+  "cmd_prefix": ",",
+  "customcmd_prefix": "..",
   "bot_identifier": ":robot:"
 }
